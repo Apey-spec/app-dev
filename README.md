@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+## Spirited Away
+"Spirited Away follows the journey of Chihiro Ogino, a 10-year-old girl who stumbles upon an abandoned amusement park with her parents. As night falls, she finds herself in a strange, magical world populated by spirits and supernatural beings. When her parents are transformed into pigs, Chihiro must navigate this unfamiliar realm and find a way to save them. Along the way, she encounters unique characters like Haku, Yubaba, and the mysterious No-Face."
